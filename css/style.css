@@ -521,11 +521,12 @@ header{
     } */
     .price_item{
         position: relative;
+        padding-right: 100px
     }
     .price_span{
         position: absolute;
         right: 0;
-        top: 3px;
+        top: 30px;
     }
 }
 
